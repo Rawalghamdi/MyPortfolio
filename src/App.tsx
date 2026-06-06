@@ -20,6 +20,7 @@ const App = () => (
           <Route path="*" element={<NotFound />} />
         </Routes>
       </BrowserRouter>
+      <BrowserRouter basename="/MyPortfolio">
     </TooltipProvider>
   </QueryClientProvider>
 );
