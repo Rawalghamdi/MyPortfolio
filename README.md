@@ -4,7 +4,7 @@ Personal portfolio website built with React, TypeScript, and Tailwind CSS. Featu
 
 ## Live Demo
 
-> Deploy to Vercel or Netlify and update this link.
+https://my-portfolio-beryl-nine-20.vercel.app/#certifications
 
 ## Tech Stack
 
